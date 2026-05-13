@@ -48,7 +48,7 @@
 
 ### 📂 Featured Projects
 
-#### 🛒 [Customer Shopping Behaviour Analysis](https://github.com/antony561/customer-shopping-behaviour)
+#### 🛒 [Customer Shopping Behaviour Analysis](https://github.com/antony561/customer-shopping-behavior-analysis)
 > Python · PostgreSQL · Power BI | 3,900-customer retail dataset
 
 End-to-end retail analytics solution — from raw data to interactive dashboard.
